@@ -29,6 +29,13 @@
     "todolist-e2e": {
       "tags": [],
       "implicitDependencies": ["todolist"]
+    },
+    "rwd01": {
+      "tags": []
+    },
+    "rwd01-e2e": {
+      "tags": [],
+      "implicitDependencies": ["rwd01"]
     }
   }
 }
